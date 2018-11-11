@@ -1,3 +1,5 @@
+them: minima
+
 collections:
   authors:
     output: true
